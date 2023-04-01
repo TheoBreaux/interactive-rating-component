@@ -1,0 +1,47 @@
+.review-score-row {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  font-family: Overpass;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.review-score-btn {
+  border-radius: 50%;
+  width: 51px;
+  height: 51px;
+  background-color: #7c8798;
+  color: #969fad;
+  cursor: pointer;
+  border: none;
+  transition: 0.5s;
+}
+
+.review-score-btn:hover {
+  background-color: #fc7614;
+  color: white;
+}
+
+.review-score-btn:focus {
+  background-color: red;
+  color: white;
+}
+
+.submit-btn {
+  width: 341px;
+  height: 45px;
+  background-color: #fc7614;
+  color: white;
+  font-family: Overpass;
+  font-size: 15px;
+  letter-spacing: 2px;
+  border-radius: 30px;
+  cursor: pointer;
+  border: none;
+  transition: 0.5s;
+}
+
+.submit-btn:hover {
+  background-color: white;
+  color: #fc7614;
+}

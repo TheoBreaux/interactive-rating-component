@@ -1,0 +1,42 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: black;
+} */
+
+/* .card {
+  padding: 2em;
+} */
+
+.thank-you-icon {
+  margin-bottom: 30px;
+}
+
+.review-score-container {
+  background-color: #4c535c;
+  margin: auto;
+  width: 193px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 40px;
+}
+
+.review-score {
+  color: #fc7614;
+  font-size: 15px;
+  font-family: Overpass;
+}
+
+h1 {
+  color: white;
+  font-family: Overpass;
+}
+
+p {
+  color: #969fad;
+  font-size: 15px;
+}
